@@ -1,5 +1,5 @@
 # Pattern-oriented-software-disign
-Above files contains the very basic and simple implementation of different design patterns in python. The list of patterns are:
+Above files contains the very basic and simple implementation of different design patterns in python. The list of patterns are:(note abstract class is only used in all patterns so that it follow the exact basic flow diagrams for better understandings)
 
 1.Abstract factory design pattern
 
